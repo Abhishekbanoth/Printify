@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Printify/static/css/main.79d19d76.css",
+    "main.js": "/Printify/static/js/main.b8875a09.js",
+    "static/js/453.22673780.chunk.js": "/Printify/static/js/453.22673780.chunk.js",
+    "static/media/hero2.png": "/Printify/static/media/hero2.7feb8b48c396bf169505.png",
+    "static/media/review3.png": "/Printify/static/media/review3.90d64904888390fcd875.png",
+    "static/media/connectstore.png": "/Printify/static/media/connectstore.c623cf953ada85815e93.png",
+    "static/media/review2.png": "/Printify/static/media/review2.87aeaa22a360f5d59254.png",
+    "static/media/hero.png": "/Printify/static/media/hero.c4b9f091f2363cb0b6b5.png",
+    "static/media/review1.png": "/Printify/static/media/review1.681ea8a800e4a3beab1f.png",
+    "static/media/profitpage.png": "/Printify/static/media/profitpage.e1f0b8721b13892b0c8b.png",
+    "static/media/selection.png": "/Printify/static/media/selection.d81d2cca011e43e72feb.png",
+    "static/media/profit.png": "/Printify/static/media/profit.bf56f862996749098974.png",
+    "static/media/robust.png": "/Printify/static/media/robust.e656c300368536e24882.png",
+    "static/media/create.png": "/Printify/static/media/create.b0584f6d4d0c2fc9e644.png",
+    "static/media/sell.png": "/Printify/static/media/sell.f9b4ea693adf8de14fa1.png",
+    "static/media/handle.png": "/Printify/static/media/handle.53352d028719db738700.png",
+    "static/media/logo (1).svg": "/Printify/static/media/logo (1).d1278b5b1348821f65e7358634fbaa05.svg",
+    "index.html": "/Printify/index.html",
+    "main.79d19d76.css.map": "/Printify/static/css/main.79d19d76.css.map",
+    "main.b8875a09.js.map": "/Printify/static/js/main.b8875a09.js.map",
+    "453.22673780.chunk.js.map": "/Printify/static/js/453.22673780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.b8875a09.js"
+  ]
+}
